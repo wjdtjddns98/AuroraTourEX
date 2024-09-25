@@ -13,4 +13,4 @@
 
 - 깃허브 페이지 사용하여 배포(Deploy) 함
 
-  [배포](https://wjdtjddns98.github.io/AuroraTourEX/"link")
+  [배포](https://wjdtjddns98.github.io/AuroraTourEX/)
